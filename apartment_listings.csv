@@ -1,0 +1,391 @@
+price,expenses,address,size,bedrooms,bathrooms,url,listing_url
+Consultar Precio,90000,"Junín 1400, Piso 5
+                ",120,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14995215
+2300000,12000,"Esmeralda 1300, Piso 1
+                ",155,3,3,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14922948
+500000,30000,"Juncal 2400, Piso 8
+                ",54,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14892187
+Consultar Precio,52000,"Alvear al 1400
+                ",290,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--11382453
+Consultar Precio,55000,"Av Santa Fe al 1200
+                ",150,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--11564351
+990000,N/A,"Jerónimo Salguero 2200
+                ",110,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14762936
+1990000,100000,"Gelly Y Obes 2200
+                ",163,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--13833302
+2000000,135000,"Gelly Y Obes 2200
+                ",163,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--13249469
+2000000,135000,"Francisco De Vittoria 2300
+                ",160,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14027514
+600000,N/A,"Larrea 700
+                ",70,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14899319
+4200000,190000,"JUNCAL 2000
+                ",200,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--12386485
+Consultar Precio,68000,"Arenales 2400, Piso 4
+                ",65,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14669598
+Consultar Precio,43500,"Junin 1500, Piso 8
+                ",155,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12803151
+Consultar Precio,90000,"Juncal 700
+                ",372,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12061333
+Consultar Precio,120000,"Av Callao 1900, Piso 3
+                ",260,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12497945
+Consultar Precio,84000,"Marcelo T de Alvear  y Libertad
+                ",126,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12742068
+Consultar Precio,90000,"Uruguay al 1200
+                ",150,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12974852
+790000,210000,"Nicolas Rodriguez Peña 1100
+                ",250,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--11991219
+Consultar Precio,104000,"Austria 2100, Piso 10
+                ",145,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14357240
+Consultar Precio,124900,"Rodriguez Peña al 1700
+                ",116,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14474340
+1200000,84000,"Marcelo T de Alvear  y Libertad
+                ",126,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14616053
+900000,124900,"Rodriguez Peña al 1700
+                ",116,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14805896
+900000,124900,"Rodriguez Peña al 1700
+                ",116,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14805895
+850000,37000,"Avenida cordoba 2000
+                ",89,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14851965
+1300000,N/A,"Uruguay 1200
+                ",123,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14176026
+Consultar Precio,90000,"Juncal 700
+                ",372,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12060314
+1200000,84000,"Marcelo T de Alvear  y Libertad
+                ",126,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14970151
+1500000,20000,"Las Heras 1800
+                ",125,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14980235
+4500000,260000,"Las Heras 3000
+                ",180,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15011701
+Consultar Precio,N/A,"Arenales 1600
+                ",118,3,3,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--10892565
+Consultar Precio,154000,"Quintana 50 piso 6 A y Parera
+                ",183,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12480704
+Consultar Precio,150000,"LIBERTAD 1300
+                ",222,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12623614
+Consultar Precio,66789,"Roberto M Ortiz 1900
+                ",105,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12769487
+Consultar Precio,N/A,"Avenida del Libertador 700
+                ",148,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12882291
+Consultar Precio,350000,"Alvear  al 1300
+                ",400,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--12899538
+Consultar Precio,432758,"Talcahuano al 1200
+                ",193,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--13027960
+Consultar Precio,140000,"Avenida Callao 1500
+                ",264,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--13051220
+Consultar Precio,125357,"RODRíGUEZ PEñA 1800
+                ",186,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--13945606
+Consultar Precio,N/A,"Posadas al 1400
+                ",290,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14041994
+Consultar Precio,280000,"LIBERTAD 1500
+                ",200,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14117314
+Consultar Precio,350000,"Rodríguez Peña al 1600
+                ",317,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14293449
+Consultar Precio,78000,"Quintana Manuel Pte Av al 200
+                ",150,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14493269
+Consultar Precio,159000,"Departamento en  alquiler en Recoleta - Posadas al 1400
+                ",178,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14536718
+Consultar Precio,88000,"Departamento en Alquiler en Recoleta - 3 Dorm - Av Libertador al 800
+                ",110,3,3,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14542141
+Consultar Precio,150000,"Quintana 500 - ALQUILER 4 AMBIENTES EXCELENTE ESTADO
+                ",165,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14545585
+Consultar Precio,78000,"Quintana Manuel Pte Av al 200
+                ",150,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14603603
+Consultar Precio,125090,"Rodríguez Peña al 1500
+                ",N/A,3,3,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14614051
+Consultar Precio,N/A,"Marcelo Torcuato de Alvear 1500
+                ",110,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14648843
+Consultar Precio,84000,"Av Quintana  y Parera Categoria Super Luminoso Sup 104 m2
+                ",N/A,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14653465
+2400000,317000,"Galileo al 2400
+                ",232,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14654999
+4000000,94000,"Parera al 100
+                ",N/A,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14655115
+990000,100000,"Avenida Presidente Manuel Quintana 200
+                ",81,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14662995
+4200000,90000,"French y Laprida
+                ",180,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14664213
+2600000,140000,"Posadas  al 1400
+                ",200,3,3,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14677392
+2500000,N/A,"POSADAS  al 1400
+                ",245,3,3,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14680903
+1800000,423000,"Talcahuano al 1200
+                ",193,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--14693450
+1800000,423000,"Talcahuano al 1200
+                ",193,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--14693449
+3500000,N/A,"LIBERTAD 1300
+                ",N/A,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14731215
+1600000,208238,"Departamento en  alquiler en Recoleta - Posadas al 1400
+                ",178,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14758109
+Consultar Precio,84000,"Av Quintana  y Parera Categoria Super Luminoso Sup 104 m2
+                ",N/A,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14763817
+Consultar Precio,84000,"Av Quintana  y Parera Categoria Super Luminoso Sup 104 m2
+                ",N/A,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14763816
+Consultar Precio,84000,"Av Quintana  y Parera Categoria Super Luminoso Sup 104 m2
+                ",N/A,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14763818
+1800000,200000,"Montevideo 1700, Piso 5
+                ",233,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14781408
+Consultar Precio,N/A,"Ayacucho y Guido Edificio francés de categoria Sup 174 m2
+                ",158,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-7-ambientes--14782700
+2600000,130000,"TAGLE AL 2500
+                ",187,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14786759
+Consultar Precio,91200,"Av alvear al 1800
+                ",87,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14824187
+Consultar Precio,300000,"Manuel Quintana  al 500
+                ",N/A,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14835224
+Consultar Precio,112000,"AV LAS HERAS 3100, Piso 10
+                ",109,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14848385
+Consultar Precio,N/A,"Av Callao y Pacheco de Melo
+                ",240,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--13082373
+Consultar Precio,150000,"Av Callao y Juncal
+                ",180,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--13248833
+Consultar Precio,N/A,"Av Las Heras 2000
+                ",110,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--13435032
+1190000,N/A,"BASAVILVASO  al 1200
+                ",200,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14747807
+1190000,N/A,"BASAVILVASO  al 1200
+                ",200,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14747808
+Consultar Precio,N/A,"BASAVILVASO  al 1200
+                ",200,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12887442
+Consultar Precio,N/A,"Carlos Pellegrini al 1300
+                ",235,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--14865045
+Consultar Precio,N/A,"Carlos Pellegrini al 1300
+                ",235,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--14865046
+Consultar Precio,N/A,"Carlos Pellegrini al 1300
+                ",235,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--14865047
+2300000,116276,"Peña 2500
+                ",165,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14436389
+Consultar Precio,127000,"Marcelo Torcuato de Alvear 1600
+                ",103,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14908212
+1800000,136000,"Uriburu al 1500
+                ",170,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14936962
+1800000,136000,"Uriburu al 1500
+                ",170,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14936963
+1400,103000,"Rodriguez Pena al 1400 Alquiler 4 ambientes con dependencia SIN muebles
+                ",143,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14959026
+650000,65000,"QUIRNO COSTA 1200, Piso 4
+                ",110,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14962990
+550000,61000,"LAS HERAS GRAL AV 1900
+                ",74,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14608821
+800000,123000,"AV PUEYRREDON 1400, Piso 4
+                ",117,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14970326
+Consultar Precio,N/A,"Beruti 2800
+                ",129,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14979052
+650000,N/A,"Carlos Pellegrini  al 1300
+                ",85,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-3-ambientes--14995843
+Consultar Precio,N/A,"Arenales 2600
+                ",130,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15000236
+Consultar Precio,95000,"Quintana y Parera
+                ",N/A,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--15006893
+Consultar Precio,N/A,"Junín al 1500
+                ",160,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--15011846
+Consultar Precio,N/A,"Junín al 1500
+                ",160,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--15011847
+Consultar Precio,N/A,"MONTEVIDEO 1700
+                ",N/A,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15011975
+1300000,190000,"Quintana 500 - ALQUILER  4 AMBIENTESC/COCHERA -  EXCELENTE ESTADO
+                ",165,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15012070
+900000,80000,"Pueyrredon al 1400
+                ",111,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15017837
+Consultar Precio,80000,"Pueyrredon al 1400
+                ",111,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15018269
+Consultar Precio,80000,"Pueyrredon al 1400
+                ",111,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15018270
+Consultar Precio,80000,"Pueyrredon al 1400
+                ",111,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15018272
+Consultar Precio,90000,"Junín 1400, Piso 5
+                ",120,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14995215
+2300000,12000,"Esmeralda 1300, Piso 1
+                ",155,3,3,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14922948
+500000,30000,"Juncal 2400, Piso 8
+                ",54,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14892187
+Consultar Precio,52000,"Alvear al 1400
+                ",290,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--11382453
+Consultar Precio,55000,"Av Santa Fe al 1200
+                ",150,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--11564351
+990000,N/A,"Jerónimo Salguero 2200
+                ",110,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14762936
+1990000,100000,"Gelly Y Obes 2200
+                ",163,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--13833302
+2000000,135000,"Gelly Y Obes 2200
+                ",163,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--13249469
+2000000,135000,"Francisco De Vittoria 2300
+                ",160,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14027514
+600000,N/A,"Larrea 700
+                ",70,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14899319
+4200000,190000,"JUNCAL 2000
+                ",200,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--12386485
+Consultar Precio,68000,"Arenales 2400, Piso 4
+                ",65,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14669598
+Consultar Precio,43500,"Junin 1500, Piso 8
+                ",155,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12803151
+Consultar Precio,90000,"Juncal 700
+                ",372,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12061333
+Consultar Precio,120000,"Av Callao 1900, Piso 3
+                ",260,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12497945
+Consultar Precio,84000,"Marcelo T de Alvear  y Libertad
+                ",126,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12742068
+Consultar Precio,90000,"Uruguay al 1200
+                ",150,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12974852
+790000,210000,"Nicolas Rodriguez Peña 1100
+                ",250,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--11991219
+Consultar Precio,104000,"Austria 2100, Piso 10
+                ",145,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14357240
+Consultar Precio,124900,"Rodriguez Peña al 1700
+                ",116,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14474340
+1200000,84000,"Marcelo T de Alvear  y Libertad
+                ",126,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14616053
+900000,124900,"Rodriguez Peña al 1700
+                ",116,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14805896
+900000,124900,"Rodriguez Peña al 1700
+                ",116,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14805895
+850000,37000,"Avenida cordoba 2000
+                ",89,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14851965
+1300000,N/A,"Uruguay 1200
+                ",123,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14176026
+Consultar Precio,90000,"Juncal 700
+                ",372,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12060314
+1200000,84000,"Marcelo T de Alvear  y Libertad
+                ",126,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14970151
+1500000,20000,"Las Heras 1800
+                ",125,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14980235
+4500000,260000,"Las Heras 3000
+                ",180,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15011701
+Consultar Precio,N/A,"Arenales 1600
+                ",118,3,3,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--10892565
+Consultar Precio,154000,"Quintana 50 piso 6 A y Parera
+                ",183,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12480704
+Consultar Precio,150000,"LIBERTAD 1300
+                ",222,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12623614
+Consultar Precio,66789,"Roberto M Ortiz 1900
+                ",105,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12769487
+Consultar Precio,N/A,"Avenida del Libertador 700
+                ",148,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12882291
+Consultar Precio,350000,"Alvear  al 1300
+                ",400,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--12899538
+Consultar Precio,432758,"Talcahuano al 1200
+                ",193,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--13027960
+Consultar Precio,140000,"Avenida Callao 1500
+                ",264,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--13051220
+Consultar Precio,125357,"RODRíGUEZ PEñA 1800
+                ",186,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--13945606
+Consultar Precio,N/A,"Posadas al 1400
+                ",290,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14041994
+Consultar Precio,280000,"LIBERTAD 1500
+                ",200,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-2,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14117314
+Consultar Precio,350000,"Rodríguez Peña al 1600
+                ",317,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14293449
+Consultar Precio,78000,"Quintana Manuel Pte Av al 200
+                ",150,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14493269
+Consultar Precio,159000,"Departamento en  alquiler en Recoleta - Posadas al 1400
+                ",178,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14536718
+Consultar Precio,88000,"Departamento en Alquiler en Recoleta - 3 Dorm - Av Libertador al 800
+                ",110,3,3,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14542141
+Consultar Precio,150000,"Quintana 500 - ALQUILER 4 AMBIENTES EXCELENTE ESTADO
+                ",165,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14545585
+Consultar Precio,78000,"Quintana Manuel Pte Av al 200
+                ",150,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14603603
+Consultar Precio,125090,"Rodríguez Peña al 1500
+                ",N/A,3,3,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14614051
+Consultar Precio,N/A,"Marcelo Torcuato de Alvear 1500
+                ",110,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14648843
+Consultar Precio,84000,"Av Quintana  y Parera Categoria Super Luminoso Sup 104 m2
+                ",N/A,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14653465
+2400000,317000,"Galileo al 2400
+                ",232,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14654999
+4000000,94000,"Parera al 100
+                ",N/A,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14655115
+990000,100000,"Avenida Presidente Manuel Quintana 200
+                ",81,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14662995
+4200000,90000,"French y Laprida
+                ",180,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14664213
+2600000,140000,"Posadas  al 1400
+                ",200,3,3,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14677392
+2500000,N/A,"POSADAS  al 1400
+                ",245,3,3,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14680903
+1800000,423000,"Talcahuano al 1200
+                ",193,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--14693450
+1800000,423000,"Talcahuano al 1200
+                ",193,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--14693449
+3500000,N/A,"LIBERTAD 1300
+                ",N/A,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14731215
+1600000,208238,"Departamento en  alquiler en Recoleta - Posadas al 1400
+                ",178,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14758109
+Consultar Precio,84000,"Av Quintana  y Parera Categoria Super Luminoso Sup 104 m2
+                ",N/A,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-3,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14763817
+Consultar Precio,84000,"Av Quintana  y Parera Categoria Super Luminoso Sup 104 m2
+                ",N/A,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14763816
+Consultar Precio,84000,"Av Quintana  y Parera Categoria Super Luminoso Sup 104 m2
+                ",N/A,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14763818
+1800000,200000,"Montevideo 1700, Piso 5
+                ",233,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14781408
+Consultar Precio,N/A,"Ayacucho y Guido Edificio francés de categoria Sup 174 m2
+                ",158,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-7-ambientes--14782700
+2600000,130000,"TAGLE AL 2500
+                ",187,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14786759
+Consultar Precio,91200,"Av alvear al 1800
+                ",87,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14824187
+Consultar Precio,300000,"Manuel Quintana  al 500
+                ",N/A,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14835224
+Consultar Precio,112000,"AV LAS HERAS 3100, Piso 10
+                ",109,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14848385
+Consultar Precio,N/A,"Av Callao y Pacheco de Melo
+                ",240,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--13082373
+Consultar Precio,150000,"Av Callao y Juncal
+                ",180,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--13248833
+Consultar Precio,N/A,"Av Las Heras 2000
+                ",110,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--13435032
+1190000,N/A,"BASAVILVASO  al 1200
+                ",200,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14747807
+1190000,N/A,"BASAVILVASO  al 1200
+                ",200,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14747808
+Consultar Precio,N/A,"BASAVILVASO  al 1200
+                ",200,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--12887442
+Consultar Precio,N/A,"Carlos Pellegrini al 1300
+                ",235,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--14865045
+Consultar Precio,N/A,"Carlos Pellegrini al 1300
+                ",235,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--14865046
+Consultar Precio,N/A,"Carlos Pellegrini al 1300
+                ",235,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--14865047
+2300000,116276,"Peña 2500
+                ",165,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14436389
+Consultar Precio,127000,"Marcelo Torcuato de Alvear 1600
+                ",103,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14908212
+1800000,136000,"Uriburu al 1500
+                ",170,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-4,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14936962
+1800000,136000,"Uriburu al 1500
+                ",170,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--14936963
+1400,103000,"Rodriguez Pena al 1400 Alquiler 4 ambientes con dependencia SIN muebles
+                ",143,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14959026
+650000,65000,"QUIRNO COSTA 1200, Piso 4
+                ",110,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14962990
+550000,61000,"LAS HERAS GRAL AV 1900
+                ",74,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14608821
+800000,123000,"AV PUEYRREDON 1400, Piso 4
+                ",117,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14970326
+Consultar Precio,N/A,"Beruti 2800
+                ",129,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--14979052
+650000,N/A,"Carlos Pellegrini  al 1300
+                ",85,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-3-ambientes--14995843
+Consultar Precio,N/A,"Arenales 2600
+                ",130,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15000236
+Consultar Precio,95000,"Quintana y Parera
+                ",N/A,3,2,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--15006893
+Consultar Precio,N/A,"Junín al 1500
+                ",160,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--15011846
+Consultar Precio,N/A,"Junín al 1500
+                ",160,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-6-ambientes--15011847
+Consultar Precio,N/A,"MONTEVIDEO 1700
+                ",N/A,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15011975
+1300000,190000,"Quintana 500 - ALQUILER  4 AMBIENTESC/COCHERA -  EXCELENTE ESTADO
+                ",165,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15012070
+900000,80000,"Pueyrredon al 1400
+                ",111,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15017837
+Consultar Precio,80000,"Pueyrredon al 1400
+                ",111,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15018269
+Consultar Precio,80000,"Pueyrredon al 1400
+                ",111,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15018270
+Consultar Precio,80000,"Pueyrredon al 1400
+                ",111,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15018272
+1500000,80000,"Republica Arabe Siria  al 3200
+                ",110,3,N/A,https://www.argenprop.com/inmuebles/alquiler/capital-federal-o-recoleta/3-dormitorios?pagina-5,https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--15064986
