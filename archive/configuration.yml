@@ -1,0 +1,36 @@
+
+
+
+# to get the chat id, add bot to a group or chat with the bot and then run this
+
+# async def get_chat_ids(token):
+#     bot = telegram.Bot(token=token)
+#     # Await the coroutine to get updates and iterate through them
+#     updates = await bot.get_updates()
+#     chat_ids = [update.message.chat.id for update in updates if update.message]
+    
+#     return chat_ids
+
+# async def main():
+#     chat_ids = await get_chat_ids(TOKEN)
+#     print(chat_ids)
+
+# if __name__ == '__main__':
+#     asyncio.run(main())
+
+# token to ba_rentals_bot. KEEP IT PRIVATE and SECURE.
+
+# BOT_USERNAME = '@ba_rentals_bot'
+
+
+notifier:
+    messages: 'A MESSAGE'
+    enabled: true
+    chat_id: '464221960'
+    token: '6826059877:AAFZfrEWXiu05FCrYRDN15xUQIxT6EcsdRs'
+# providers:
+#     provider_a:
+#         base_url: <URL>
+#         sources:
+#           - <PATH>
+disable_ssl: false
